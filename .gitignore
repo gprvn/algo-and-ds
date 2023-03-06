@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+#intelliJ Files
+.idea/
+algo-and-ds.iml
+
 # Log file
 *.log
 
