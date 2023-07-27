@@ -2,8 +2,9 @@
 *.class
 
 #intelliJ Files
-.idea/
+out/
 algo-and-ds.iml
+.idea
 
 # Log file
 *.log
